@@ -1,0 +1,573 @@
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.AccountProfile.resources
+C:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.AccountProfile.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\Users\XuanNguyen\source\repos\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+D:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+F:\ \Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmReportBill.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportBill.rdlc
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ReportMenuAndFood.resources
+C:\Users\XuanNguyen\OneDrive\Desktop\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportFood.rdlc
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportBill.rdlc
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportFood.rdlc
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmReportBill.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ReportMenuAndFood.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Đồ Án Lập Trình Winform\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportBill.rdlc
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportFood.rdlc
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmReportBill.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ReportMenuAndFood.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\Nhóm 5_Quản Lý Quán Ăn\Nhóm 5_Quản Lý Quán Ăn\Ứng dụng quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportBill.rdlc
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportFood.rdlc
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmReportBill.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ReportMenuAndFood.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportBill.rdlc
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ReportFood.rdlc
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Banan.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhmucmonan.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Danhsachmonan.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.DSTaikhoan.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmReportBill.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ReportMenuAndFood.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongtintaikhoan.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Dangnhap.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Quanly.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Thongke.resources
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\acer user\Desktop\đồ án CNPM - quản lý quán ăn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
